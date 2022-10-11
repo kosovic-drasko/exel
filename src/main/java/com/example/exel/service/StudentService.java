@@ -1,4 +1,4 @@
-package com.example.exel.service.service;
+package com.example.exel.service;
 
 import com.example.exel.domain.Student;
 
